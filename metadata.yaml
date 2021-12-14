@@ -1,0 +1,29 @@
+_repo: The-Lake-Regions-of-Central-Africa-A-Picture-of-Exploration-Vol-2_66813
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burton, Richard Francis, Sir
+    aliases:
+    - Burton, Richard F.
+    - Burton, R. F. (Richard F.), Sir
+    - Baker, Frank
+    - Burton, Sir Richard Francis
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '898'
+    url: http://www.gutenberg.org/2009/agents/898
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Francis_Burton
+description: ''
+gutenberg_issued: '2021-11-24'
+identifiers:
+  gutenberg: '66813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Africa, Central -- Description and travel'
+- GITenberg
+title: 'The Lake Regions of Central Africa: A Picture of Exploration, Vol. 2'
+url: http://www.gutenberg.org/ebooks/66813
